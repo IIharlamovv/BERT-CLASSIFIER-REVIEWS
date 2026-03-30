@@ -81,7 +81,7 @@ test_triton.ipynb
 Пример:
 
 ```python
-texts = ["This movie is terrible"]
+texts = ["Этот фильм ужасен"]
 ```
 
 ---
